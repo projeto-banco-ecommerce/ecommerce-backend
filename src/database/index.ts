@@ -1,5 +1,6 @@
 import mongoose from "mongoose";
 
+
 import { dbDebug } from "../debugConfig";
 
 export default function configMongoDB() {
